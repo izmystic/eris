@@ -1,2 +1,2 @@
-# hermes
+# eris
 based chat app
